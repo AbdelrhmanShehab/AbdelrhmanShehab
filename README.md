@@ -18,21 +18,18 @@
 
 ---
 
-## 📊 GitHub Statistics  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)  
-
----
-
-## 🛠 Projects  
+## 🛠 My Top Projects  
 
 ### Featured: **StreamVibe** 🎥  
 - A 7-page movie streaming site with categories, filtering, search, lazy loading, and a responsive design.  
-- **Tech Stack:** React, HTML, CSS, React Router, Axios.  
+- **Tech Stack:** React, HTML, CSS, React Routing, JSON file data handling.  
 
 ### Featured: **Local Leaks** 🛍️  
-- A shopping platform for local brands with a custom theme and advanced UI/UX.  
+- A shopping platform for local brands with a custom theme and advanced UI/UX.
+-  **Tech Stack:** HTML, CSS, JS and React(Reusable components, Hooks, Routing) and Figma for design.
+### Featured: **Your Home** 🛍️  
+- A house renting platform using HTML, CSS and JS.  
 
 ### And More...  
 Check out my repositories for more exciting projects!  
@@ -43,7 +40,7 @@ Check out my repositories for more exciting projects!
 
 ![Clean Code GIF](https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)  
 
-> *"Code is like humor. When you have to explain it, it’s bad."* – Cory House  
+> *"Code is like humor. When you have to explain it, it’s bad."*   
 
 ---
 
