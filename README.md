@@ -3,7 +3,7 @@
 🎨 **UX Designer & Frontend Developer**  
 🌟 Passionate about creating clean, user-centric designs and scalable code.  
 📩 **Email:** [abdlrhman.shihab@gmail.com](abdlrhman.shihab@gmail.com)  
-📍 Connect with me: [Linkedin]([https://www.instagram.com/abdelrhmaan17/](https://www.linkedin.com/in/abdelrhman-shihab-372bb2228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)) | [Behance](https://www.behance.net/abdelrhhossam3) | [Instagram](https://www.instagram.com/abdelrhmaan17/)  | 01287419214
+📍 Connect with me: [Linkedin]([https://www.instagram.com/abdelrhmaan17/](https://www.linkedin.com/in/abdelrhman-shihab-372bb2228?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [Behance](https://www.behance.net/abdelrhhossam3) | [Instagram](https://www.instagram.com/abdelrhmaan17/)  | 01287419214
 
 ---
 
